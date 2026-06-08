@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DentalClinicManagementSystem.Apis/DentalClinicManagementSystem.Apis.csproj" />
+  <Project Path="DentalClinicManagementSystem.BLL/DentalClinicManagementSystem.BLL.csproj" />
+  <Project Path="DentalClinicManagementSystem.DAL/DentalClinicManagementSystem.DAL.csproj" />
+</Solution>
